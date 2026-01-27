@@ -1,0 +1,178 @@
+/* reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background-color: #ddd;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #333
+}
+
+p,
+label {
+  color: #444;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="file"],
+input[type="number"],
+textarea {
+  width: 100%;
+}
+
+.header {
+  height: 160px;
+  padding: 20px;
+  background-color: #4771cc;
+}
+
+.header h3 {
+  color: #fff;
+  margin-top: 2%;
+  text-align: center;
+}
+
+/* form container */
+.form-container {
+  background-color: #fff;
+  width: 75%;
+  max-width: 600px;
+  margin: 0 auto;
+  position: relative;
+  top: -46px;
+  border: 1px solid #ccc;
+}
+
+textarea {
+  padding: 10px 5px;
+}
+
+/* form header */
+
+.form-header {
+  border-bottom: 1px solid #ffdfdf;
+  height: 45px;
+}
+
+.form-header p {
+  color: #4771cc;
+  border-bottom: 2px solid #4771cc;
+  width: 115px;
+  text-align: center;
+  margin: 0 auto;
+  text-transform: uppercase;
+  height: 45px;
+  line-height: 45px;
+  font-weight: 600;
+}
+
+/* form body */
+.form-body {
+  padding: 30px;
+}
+
+.form-title {
+  margin-bottom: 15px;
+}
+
+.form-body p {
+  margin-bottom: 20px;
+}
+
+.required-field {
+  color: #dc143c;
+}
+
+.box-input {
+  margin-bottom: 35px;
+}
+
+.block {
+  display: block;
+}
+
+.optional-box {
+  display: inline-block;
+  margin: 0 30px 30px 0;
+}
+
+.optional-list li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.box-input p {
+  margin-bottom: 15px;
+}
+
+.btn-submit {
+  background-color: #4771cc;
+  color: #fff;
+  border: 1px solid transparent;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: 0.5s;
+  font-weight: 600;
+  font-size: 15px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.btn-submit:hover {
+  background-color: #fff;
+  border-color: #4771cc;
+  color: #4771cc;
+  border-radius: 3px;
+}
+
+.btn-reset {
+  color: #4771cc;
+  border: 1px solid transparent;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: 0.5s;
+  font-weight: 600;
+  font-size: 15px;
+  text-align: center;
+  position: absolute;
+  right: 30px;
+  border-radius: 5px;
+}
+
+.btn-reset:hover {
+  background-color: #dc143c;
+  border-color: #fff;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
