@@ -1,27 +1,35 @@
 # 🚗 Formulário de Venda de Veículos
 
-Projeto de uma **página de formulário para cadastro de veículos à venda**, desenvolvido com **HTML5 e CSS3**, como parte dos estudos em um curso de Front-end.
+Página web de **formulário para cadastro de veículos à venda**, desenvolvida com **HTML e CSS** como projeto de portfólio para praticar formulários, validações básicas e estilização front-end.
 
-O objetivo do projeto é praticar a estruturação de formulários, validações básicas com HTML e estilização utilizando CSS, seguindo boas práticas de organização e legibilidade do código.
+O projeto simula o cadastro de um veículo, permitindo inserir informações, selecionar opcionais e enviar imagens em um layout simples e organizado.
+
+## 🚀 Demonstração
+
+🔗 GitHub Pages: *[Link](https://christxrres.github.io/car-sale-form/)*
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 
-## 📋 Funcionalidades
+## 📄 Funcionalidades
 
 - Cadastro de informações do veículo (título, preço, marca, modelo, etc.)
-- Seleção de tipo de câmbio
-- Marcação de opcionais do veículo
+- Seleção do tipo de câmbio
+- Marcação de opcionais
 - Upload de múltiplas imagens
 - Validação de campos obrigatórios via HTML
 - Layout centralizado e responsivo
 
-## 🎯 Objetivo
+## 🎨 Estilo
 
-Projeto desenvolvido **exclusivamente para fins de estudo e portfolio**, com foco em formulários e estilização front-end.
+- Layout centralizado
+- Design limpo e objetivo
+- Inputs em largura total
+- Foco em usabilidade e legibilidade
 
 ## 👤 Autor
 
-Desenvolvido por **Christofer Torres**.
+Desenvolvido por **Christofer Torres**  
+Projeto criado com fins educacionais e de **portfólio frontend**.
